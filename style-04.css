@@ -1,0 +1,25 @@
+table{
+    width: 700px;
+
+}
+th{
+    text-align: left;
+    background-color: #94c8f2;
+}
+
+table, tr{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 5px;
+}
+
+caption{
+    font-weight: bolder;
+    background-color: #59a2de;
+}
+tr:hover{
+    background-color: azure;
+}
